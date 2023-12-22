@@ -1,3 +1,6 @@
+Important: Compatible with React version 17.0.2
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
